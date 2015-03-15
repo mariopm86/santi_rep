@@ -1,0 +1,56 @@
+.contenedor{
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-bottom: 50px;
+	margin-top: 20px;
+}
+.texto{
+	margin-right: 30%;
+}
+h1{
+	text-align: center;
+}
+ul{
+	font-family: arial;
+}
+ol{
+	font-family: helvetica;
+}
+dl{
+	font-family: georgia;
+}
+dl dd{
+	font-style: oblique;
+}
+table tr td{
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+	padding: 10px;
+}
+.borde{
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+}
+.cajita{
+	margin: 20px;
+	padding: 5px;
+
+}
+a{
+	float: right;
+}
+#linkLeft{
+	float: left;
+}
+a:link, a:visited {
+    display: block;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #98bf21;
+    width: 120px;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+}
