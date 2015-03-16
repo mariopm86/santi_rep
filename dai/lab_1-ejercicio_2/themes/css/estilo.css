@@ -1,0 +1,32 @@
+.contenedor{
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 20px;
+}
+.header{
+	text-align: center;
+	margin: 30px;
+}
+.footer{
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 20px;
+	margin-bottom: 0;
+	padding-bottom: 30px;
+	padding-top: 20px;
+	background-color: gray;
+	text-align: center;
+}
+.txtCentro{
+	text-align: center;
+}
+.texto{
+	margin-right: 30%;
+}
+.cajita{
+	margin: 20px;
+	padding: 5px;
+}
+img{
+	margin: 20px;
+}
