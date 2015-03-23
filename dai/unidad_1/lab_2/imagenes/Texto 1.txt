@@ -1,0 +1,21 @@
+Definicion
+
+Se denomina inteligencia artificial a la rama de la informática que 
+desarrolla procesos que imitan a la inteligencia 
+de los seres vivos. La principal aplicación de esta 
+ciencia es la creación de máquinas para la automatización 
+de tareas que requieran un comportamiento inteligente
+
+El concepto de IA es aún demasiado difuso. Contextualizando, 
+y teniendo en cuenta un punto de vista científico, podríamos 
+englobar a esta ciencia como la encargada de imitar una persona, 
+y no su cuerpo, sino imitar al cerebro, en todas sus funciones, 
+existentes en el humano o inventadas sobre el desarrollo de una máquina inteligente.
+A veces, aplicando la definición de Inteligencia Artificial, 
+se piensa en máquinas inteligentes sin emociones, 
+que "obstaculizan" encontrar la mejor solución a un problema dado.
+ Muchos pensamos en dispositivos artificiales capaces de concluir
+ miles de premisas a partir de otras premisas dadas, sin que ningún 
+tipo de emoción tenga la opción de obstaculizar dicha labor.
+En esta línea, hay que saber que ya existen sistemas inteligentes.
+Capaces de tomar decisiones "acertadas".
